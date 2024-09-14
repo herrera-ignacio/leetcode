@@ -2,7 +2,7 @@
 
 ## Courses
 
-
+- [Data Structures and Algorithms](courses/data-structures-and-algorithms)
 
 ## Challenges
 
