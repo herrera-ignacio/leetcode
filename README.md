@@ -68,6 +68,7 @@
 - [1239: Maximum length of a concatenated string with unique characters](challenges/1239)
 - [1323: Maximum 69 number](challenges/1323)
 - [1356: Sort integers by the number of bits with value 1](challenges/1356)
+- [1413: Minimum value to get positive step by step sum](challenges/1413)
 - [1480: Running sum of 1d array](challenges/1480)
 - [1509: Minimum difference between largest and smallest value in three moves](challenges/1509)
 - [1530: NUmber of Good Leaf Nodes Pairs](challenges/1530)
