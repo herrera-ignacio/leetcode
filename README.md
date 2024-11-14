@@ -77,6 +77,7 @@
 - [1706: Where will the ball fall](challenges/1706)
 - [1832: Check if the sentence is anagram](challenges/1832)
 - [1926: Nearest exit from entrance in maze](challenges/1926)
+- [2090: K Radius subarray averages](challenges/2090)
 - [2095: Delete the middle node of a linked list](challenges/2095)
 - [2125: Number of laser beams in a bank](challenges/2125)
 - [2131: Longest palindrome by concatenating two-letter words](challenges/2131)
