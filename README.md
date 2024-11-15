@@ -42,6 +42,7 @@
 - [487: Max consecutive ones II](challenges/487)
 - [515: Find largest value in each tree row](challenges/515)
 - [532: Continuous subarray sum](challenges/532)
+- [560: Subarray sum equals k](challenges/560)
 - [587: Erect the fence](challenges/587)
 - [645: Set mismatch](challenges/645)
 - [766: Toeplitz matrix](challenges/766)
