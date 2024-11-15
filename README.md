@@ -68,6 +68,7 @@
 - [1026: Maximum difference between node and ancestor](challenges/1026)
 - [1235: Maximum profit in job scheduling](challenges/1235)
 - [1239: Maximum length of a concatenated string with unique characters](challenges/1239)
+- [1248: Count number of nice subarrays](challenges/1248)
 - [1323: Maximum 69 number](challenges/1323)
 - [1356: Sort integers by the number of bits with value 1](challenges/1356)
 - [1413: Minimum value to get positive step by step sum](challenges/1413)
