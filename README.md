@@ -66,6 +66,7 @@
 - [1198: Find smallest common element in all rows](challenges/1198)
 - [1208: Unique number of occurrences](challenges/1208)
 - [1026: Maximum difference between node and ancestor](challenges/1026)
+- [1133: Largest unique number](challenges/1133)
 - [1235: Maximum profit in job scheduling](challenges/1235)
 - [1239: Maximum length of a concatenated string with unique characters](challenges/1239)
 - [1248: Count number of nice subarrays](challenges/1248)
