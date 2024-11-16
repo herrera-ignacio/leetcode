@@ -41,6 +41,7 @@
 - [485: Max consecutive ones](challenges/485)
 - [487: Max consecutive ones II](challenges/487)
 - [515: Find largest value in each tree row](challenges/515)
+- [525: Contiguous array](challenges/525)
 - [532: Continuous subarray sum](challenges/532)
 - [560: Subarray sum equals k](challenges/560)
 - [587: Erect the fence](challenges/587)
