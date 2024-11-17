@@ -12,6 +12,7 @@
 - [26: Remove duplicates from sorted array](challenges/26)
 - [27: Remove element](challenges/27)
 - [36: Valid sudoku](challenges/36)
+- [49: Group anagrams](challenges/49)
 - [70: Climbing stairs](challenges/70)
 - [76: Minimum window substring](challenges/76)
 - [79: Word search](challenges/79)
