@@ -35,6 +35,7 @@
 - [345: Reverse vowels of a string](challenges/345)
 - [374: Guess number higher or lower](challenges/374)
 - [380: Insert Delete GetRandom O(1)](challenges/380)
+- [383: Ransom note](challenges/383)
 - [414: Third maximum number](challenges/414)
 - [433: Minimum genetic mutation](challenges/433)
 - [448: Find all numbers disappeared in an array](challenges/448)
