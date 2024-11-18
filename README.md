@@ -90,6 +90,8 @@
 - [2125: Number of laser beams in a bank](challenges/2125)
 - [2131: Longest palindrome by concatenating two-letter words](challenges/2131)
 - [2225: Find players with zero or one losses](challenges/2225)
+- [2342: Max sum of a pair with equal sum](challenges/2342)
+- [2352: Equal row and column pairs](challenges/2352)
 - [2385: Amount of time for binary tree to be infected](challenges/2385)
 - [2610: Convert an array into a 2d array with conditions](challenges/2610)
 - [2870: Minimum number of operations to make array empty](challenges/2870)
