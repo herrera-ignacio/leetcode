@@ -7,6 +7,7 @@
 ## Challenges
 
 - [X - Height Checker](challenges/x/height-checker)
+- [3: Longest substring without repeating characters](challenges/3)
 - [12: Integer to roman](challenges/12)
 - [21: Merge Two Sorted Lists](challenges/21)
 - [26: Remove duplicates from sorted array](challenges/26)
@@ -49,6 +50,7 @@
 - [587: Erect the fence](challenges/587)
 - [645: Set mismatch](challenges/645)
 - [766: Toeplitz matrix](challenges/766)
+- [771: Jewels and stones](challenges/771)
 - [779: K-th symbol in grammer](challenges/779)
 - [823: Binary trees with factors](challenges/823)
 - [872: Leaf-similar trees](challenges/872)
