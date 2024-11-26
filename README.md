@@ -10,6 +10,7 @@
 - [3: Longest substring without repeating characters](challenges/3)
 - [12: Integer to roman](challenges/12)
 - [21: Merge Two Sorted Lists](challenges/21)
+- [24: Swap nodes in pairs](challenges/24)
 - [26: Remove duplicates from sorted array](challenges/26)
 - [27: Remove element](challenges/27)
 - [36: Valid sudoku](challenges/36)
