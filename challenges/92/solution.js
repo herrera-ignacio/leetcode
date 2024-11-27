@@ -37,6 +37,8 @@ var reverseBetween = function(head, left, right) {
 
   if (newHead) {
     newHead.next = prev;
+  } else {
+    head = prev;
   }
   newTail.next = curr;
 

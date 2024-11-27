@@ -9,6 +9,7 @@
 - [X - Height Checker](challenges/x/height-checker)
 - [3: Longest substring without repeating characters](challenges/3)
 - [12: Integer to roman](challenges/12)
+- [20: Valid parentheses](challenges/20)
 - [21: Merge Two Sorted Lists](challenges/21)
 - [24: Swap nodes in pairs](challenges/24)
 - [26: Remove duplicates from sorted array](challenges/26)
