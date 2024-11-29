@@ -57,6 +57,7 @@
 - [771: Jewels and stones](challenges/771)
 - [779: K-th symbol in grammer](challenges/779)
 - [823: Binary trees with factors](challenges/823)
+- [844: Backspace string compare](challenges/844)
 - [872: Leaf-similar trees](challenges/872)
 - [876: Middle of the linked list](challenges/876)
 - [899: Orderly queue](challenges/899)
